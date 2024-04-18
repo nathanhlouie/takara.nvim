@@ -1,0 +1,86 @@
+[colors]
+ansi = [
+    "#EDEAE7",
+    "#CF2F21",
+    "#207D51",
+    "#907117",
+    "#3360BD",
+    "#8C4ECF",
+    "#1B7C91",
+    "#B8B7B6",
+]
+background = "#FFFDFA"
+brights = [
+    "#D9D7D5",
+    "#CF2F21",
+    "#207D51",
+    "#907117",
+    "#3360BD",
+    "#8C4ECF",
+    "#1B7C91",
+    "#120F0C",
+]
+compose_cursor = "#C53193"
+cursor_bg = "#413F3D"
+cursor_border = "#413F3D"
+cursor_fg = "#FFFCF8"
+foreground = "#120F0C"
+scrollbar_thumb = "#EDEAE7"
+selection_bg = "#EDEAE7"
+selection_fg = "#120F0C"
+split = "#D9D7D5"
+visual_bell = "#D0CFCE"
+
+[colors.indexed]
+16 = "#F25CBF"
+17 = "#C53193"
+
+[colors.tab_bar]
+background = "#F8F4F1"
+inactive_tab_edge = "#F8F4F1"
+
+[colors.tab_bar.active_tab]
+bg_color = "#CF2F21"
+fg_color = "#F8F4F1"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#EDEAE7"
+fg_color = "#120F0C"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#D9D7D5"
+fg_color = "#120F0C"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.new_tab]
+bg_color = "#D0CFCE"
+fg_color = "#120F0C"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.new_tab_hover]
+bg_color = "#B8B7B6"
+fg_color = "#120F0C"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[metadata]
+aliases = ["Takara Light", "takara-light"]
+author = "Nathan Louie"
+name = "Takara Light"
+origin_url = "https://github.com/nathanhlouie/takara.nvim"
