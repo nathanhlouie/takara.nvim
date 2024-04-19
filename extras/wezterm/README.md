@@ -34,3 +34,17 @@ return {
     -- ...
 }
 ```
+
+An example of how to sync your WezTerm theme with your OS theme:
+
+```lua
+local wezterm = require("wezterm")
+
+...
+
+return {
+    -- ... other config
+    config.color_scheme = wezterm.gui.get_appearance():find "Dark" and "Takara Dark" or "Takara Dark"
+    -- ...
+}
+```
