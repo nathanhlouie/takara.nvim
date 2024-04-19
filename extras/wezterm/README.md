@@ -1,6 +1,6 @@
-<h3>
+<h2 align="center">
     Takara for <a href="https://github.com/wez/wezterm">WezTerm</a>
-</h3>
+</h2>
 
 <div align="center">
     <h3>Takara Light</h3>
@@ -9,7 +9,7 @@
     <img src="https://github.com/nathanhlouie/takara.nvim/assets/53024905/57b2021c-3c7c-4d10-8ddd-b132e30ccca4" alt="Takara Dark" style="border-radius:1%" />
 </div>
 
-## Installation
+### Installation
 
 For X11/Wayland:
 ```shell
@@ -23,7 +23,7 @@ wget https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/wezt
 wget https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/wezterm/takara_light.toml -P $HOME/.config/wezterm/colors/
 ```
 
-## Usage
+### Usage
 
 Set `color_scheme` to your preferred theme in your `wezterm.lua`.
 
