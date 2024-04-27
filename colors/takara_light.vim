@@ -35,21 +35,13 @@ function! s:hi(group, guifg, guibg, guisp, gui, cterm)
 endfunction
 
 let s:red = '#CF2F21'
-let s:red_secondary = '#E34334'
 let s:orange = '#B16016'
-let s:orange_secondary = '#EA7839'
 let s:yellow = '#8D6D10'
-let s:yellow_secondary = '#F2B705'
 let s:green = '#207D51'
-let s:green_secondary = '#53A67F'
 let s:cyan = '#1B7C91'
-let s:cyan_secondary = '#37ABC4'
 let s:blue = '#3360BD'
-let s:blue_secondary = '#0984DD'
 let s:purple = '#8C4ECF'
-let s:purple_secondary = '#AA74E6'
 let s:magenta = '#C53193'
-let s:magenta_secondary = '#F25CBF'
 
 let s:bg = '#FFFDFA'
 let s:bg_secondary = '#F8F4F1'
