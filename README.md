@@ -1,5 +1,5 @@
 <h2 align="center">
-    Takara for <a href="https://github.com/neovim/neovim">(Neo)</a><a href="https://github.com/vim/vim">vim</a>
+    Takara
 </h2>
 
 <h6 align="center">宝 - A treasure of a (Neo)vim colorscheme</h6>
@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/nathanhlouie/takara.nvim/stargazers"><img src="https://img.shields.io/github/stars/nathanhlouie/takara.nvim?colorA=120f0c&colorB=aa74e6&style=for-the-badge</a>
-<a href="https://github.com/nathanhlouie/takara.nvim/issues"><img src="https://img.shields.io/github/issues/nathanhlouie/takara.nvim?colorA=120f0c&colorB=53a67f&style=for-the-badge</a>
-<a href="https://www.w3.org/TR/WCAG21/#contrast-minimum"><img src="https://img.shields.io/badge/WCAG_2.1-AA-A6DA95?logo=w3c&logoColor=fff&style=for-the-badge&labelColor=302D41" alt="W3C"></a>
+<a href="https://github.com/nathanhlouie/takara.nvim/stargazers"><img src="https://img.shields.io/github/stars/nathanhlouie/takara.nvim?style=for-the-badge&labelColor=120f0c&color=aa74e6" alt="stars"></a>
+<a href="https://github.com/nathanhlouie/takara.nvim/issues"><img src="https://img.shields.io/github/issues/nathanhlouie/takara.nvim/service-badge?style=for-the-badge&labelColor=120f0c&color=ea7839" alt="issues"></a>
+<a href="https://www.w3.org/WAI/standards-guidelines/wcag/"><img src="https://img.shields.io/badge/WCAG_2.1-AAA?style=for-the-badge&color=53a67f" alt="wcag"></a>
 </p>
