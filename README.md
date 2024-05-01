@@ -12,5 +12,5 @@
 <p align="center">
 <a href="https://github.com/nathanhlouie/takara.nvim/stargazers"><img src="https://img.shields.io/github/stars/nathanhlouie/takara.nvim?style=for-the-badge&labelColor=120f0c&color=aa74e6" alt="stars"></a>
 <a href="https://github.com/nathanhlouie/takara.nvim/issues"><img src="https://img.shields.io/github/issues/nathanhlouie/takara.nvim?style=for-the-badge&labelColor=120f0c&color=ea7839" alt="issues"></a>
-<a href="https://www.w3.org/WAI/standards-guidelines/wcag/"><img src="https://img.shields.io/badge/WCAG_2.1-AAA?style=for-the-badge&labelColor=120f0c&color=53a67f" alt="wcag"></a>
+<a href="https://www.w3.org/WAI/standards-guidelines/wcag/"><img src="https://img.shields.io/badge/AAA-a?style=for-the-badge&label=WCAG%202.1&labelColor=120f0c&color=53a67f" alt="wcag"></a>
 </p>
