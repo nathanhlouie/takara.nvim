@@ -1,8 +1,8 @@
-<h2 align="center">
+<h1 align="center">
     Takara
-</h2>
+</h1>
 
-<h6 align="center">宝 - A (Neo)vim colorscheme inspired by the colours of the anime K-On!</h6>
+<h5 align="center">宝 - A (Neo)vim colorscheme inspired by the colours of the anime K-On!</h5>
 
 <p align="center">
 <a href="https://github.com/nathanhlouie/takara.nvim/stargazers"><img src="https://img.shields.io/github/stars/nathanhlouie/takara.nvim?style=for-the-badge&labelColor=120f0c&color=aa74e6" alt="stars"></a>
@@ -10,11 +10,11 @@
 <a href="https://www.w3.org/WAI/standards-guidelines/wcag/"><img src="https://img.shields.io/badge/AAA-a?style=for-the-badge&label=WCAG%202.1&labelColor=120f0c&color=53a67f" alt="wcag"></a>
 </p>
 
-# Features
+## Features
 - Supports both vim and neovim
 - Integrations for LSP, Treesitter, and many other plugins
 
-# Installation
+## Installation
 
 [lazy.nvim](https://github.com/folke/lazy.nvim)
 ```lua
@@ -31,7 +31,7 @@ use { "nathanhlouie/takara.nvim" }
 Plug 'nathanhlouie/takara.nvim',
 ```
 
-# Usage
+## Usage
 
 ```vim
 colorscheme takara " takara_dark, takara_light
@@ -41,7 +41,7 @@ colorscheme takara " takara_dark, takara_light
 vim.cmd.colorscheme "takara"
 ```
 
-# Integrations
+## Integrations
 
 ### lightline
 ```vim
