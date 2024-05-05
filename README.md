@@ -2,7 +2,7 @@
     Takara
 </h1>
 
-<h5 align="center">宝 - A (Neo)vim colorscheme inspired by the colours of the anime K-On!</h5>
+<h4 align="center">宝 - A (Neo)vim colorscheme inspired by the colours of the anime K-On!</h4>
 
 <p align="center">
 <a href="https://github.com/nathanhlouie/takara.nvim/stargazers"><img src="https://img.shields.io/github/stars/nathanhlouie/takara.nvim?style=for-the-badge&labelColor=120f0c&color=aa74e6" alt="stars"></a>
@@ -11,7 +11,7 @@
 </p>
 
 ## Features
-- Supports both vim and neovim
+- Supports both Vim and Neovim
 - Integrations for LSP, Treesitter, and many other plugins
 
 ## Installation
