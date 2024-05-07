@@ -14,7 +14,7 @@
 For example:
 ```shell
 wget -P <insert-destination-directory-here> \
-https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/iterm/takara_<light/dark>.itermcolors
+    https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/iterm/takara_<light/dark>.itermcolors
 ```
 
 2. Launch iTerm and open the preferences window (⌘ + i)
