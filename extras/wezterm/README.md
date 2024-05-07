@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
     Takara for <a href="https://github.com/wez/wezterm">WezTerm</a>
-</h2>
+</h1>
 
 <div align="center">
     <h3>Takara Dark</h3><img src="https://github.com/nathanhlouie/takara.nvim/assets/53024905/57b2021c-3c7c-4d10-8ddd-b132e30ccca4" alt="Takara Dark" style="border-radius:1%" />
