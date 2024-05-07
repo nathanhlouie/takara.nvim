@@ -1,5 +1,5 @@
 <h1 align="center">
-    Takara for <a href="https://iterm2.com/">iTerm(2)</a>
+    Takara for <a href="https://iterm2.com/">iTerm</a>
 </h1>
 
 <div align="center">
@@ -10,8 +10,11 @@
 ## Usage
 
 1. Download the `.itermcolors` file(s)
+
+For example:
 ```shell
-wget -P <insert-destination-directory-here> https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/iterm/takara_<light/dark>.itermcolors
+wget -P <insert-destination-directory-here> \
+https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/iterm/takara_<light/dark>.itermcolors
 ```
 
 2. Launch iTerm and open the preferences window (⌘ + i)
