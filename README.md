@@ -55,3 +55,6 @@ let g:airline_theme = 'takara'
 
 ## Accessibility
 The colours maintain a `4.5:1` contrast ratio, complying with [WCAG 2.1 | Level AA](https://www.w3.org/TR/WCAG21/#contrast-minimum) and with Level AAA for larger texts.
+
+## Extras
+- [WezTerm](https://github.com/nathanhlouie/takara.nvim/blob/main/extras/wezterm)
