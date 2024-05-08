@@ -12,17 +12,13 @@
 For X11/Wayland:
 ```shell
 wget -P $XDG_CONFIG_HOME/wezterm/colors/ \
-    https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/wezterm/takara_dark.toml
-wget -P $XDG_CONFIG_HOME/wezterm/colors/ \
-    https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/wezterm/takara_light.toml 
+    https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/wezterm/takara_<dark/light>.toml
 ```
 
 For all other systems:
 ```shell
 wget -P $HOME/.config/wezterm/colors/ \
-    https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/wezterm/takara_dark.toml
-wget -P $HOME/.config/wezterm/colors/ \
-    https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/wezterm/takara_light.toml 
+    https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/wezterm/takara_<dark/light>.toml
 ```
 
 ## Usage

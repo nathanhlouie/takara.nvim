@@ -15,13 +15,13 @@ For example:
 ##### TOML
 ```shell
 wget -P <insert-destination-directory-here> \
-    https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/alacritty/toml/takara_<light/dark>.toml
+    https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/alacritty/toml/takara_<dark/light>.toml
 ```
 
 ##### YAML
 ```shell
 wget -P <insert-destination-directory-here> \
-    https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/alacritty/yaml/takara_<light/dark>.yml
+    https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/alacritty/yaml/takara_<dark/light>.yml
 ```
 
 2. Import the desired variant into your `alacritty.<toml/yml>` configuration file, see [Alacritty's README](https://github.com/alacritty/alacritty#configuration) for more information about configuration.
