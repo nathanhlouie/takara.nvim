@@ -13,6 +13,8 @@
 ## Features
 - Supports both Vim and Neovim
 - Integrations for LSP, Treesitter, and many other plugins
+- Maintains a `4.5:1` contrast ratio, complying with [WCAG 2.1 | Level AA](https://www.w3.org/TR/WCAG21/#contrast-minimum) and with Level AAA for larger texts.
+- Extra ports to other applications
 
 ## Installation
 
@@ -53,8 +55,8 @@ let g:lightline = {'colorscheme': 'takara'}
 let g:airline_theme = 'takara'
 ```
 
-## Accessibility
-The colours maintain a `4.5:1` contrast ratio, complying with [WCAG 2.1 | Level AA](https://www.w3.org/TR/WCAG21/#contrast-minimum) and with Level AAA for larger texts.
-
 ## Extras
+- [Alacritty](https://github.com/nathanhlouie/takara.nvim/blob/main/extras/alacritty)
+- [iTerm](https://github.com/nathanhlouie/takara.nvim/blob/main/extras/iTerm)
+- [Kitty](https://github.com/nathanhlouie/takara.nvim/blob/main/extras/kitty)
 - [WezTerm](https://github.com/nathanhlouie/takara.nvim/blob/main/extras/wezterm)
