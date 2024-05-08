@@ -12,30 +12,36 @@
 1. Download the `.toml` or `.yml` file(s)
 
 For example:
+### .toml
 ```shell
 wget -P <insert-destination-directory-here> \
     https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/alacritty/toml/takara_<light/dark>.toml
 ```
+
+### .yml
 ```shell
 wget -P <insert-destination-directory-here> \
     https://raw.githubusercontent.com/nathanhlouie/takara.nvim/main/extras/alacritty/yaml/takara_<light/dark>.yml
 ```
 
 2. Import the desired variant into your `alacritty.<toml/yml>` configuration file, see [Alacritty's README](https://github.com/alacritty/alacritty#configuration) for more information about configuration.
+### .toml
 ```toml
 import = [
-    ...
+    # ...
     "<insert-destination-directory-here>/takara_dark.toml"
     # "<insert-destination-directory-here>/takara_light.toml"
-    ...
+    # ...
 ]
 ```
+
+### .yml
 ```yaml
 import:
-    ...
+    # ...
     - <insert-destination-directory-here>/takara_dark.yml
-#   - <insert-destination-directory-here>/takara_light.yml
-    ...
+    # - <insert-destination-directory-here>/takara_light.yml
+    # ...
 ```
 
 Make sure you have the following set in your `alacritty.<toml/yml>` configuration file to display the colours correctly:
