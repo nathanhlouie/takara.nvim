@@ -1,0 +1,70 @@
+colors:
+    primary:
+        background: "#120F0C"
+        foreground: "#D0CFCE"
+        dim_foreground: "#575553"
+        bright_foreground: "#FFFDFA"
+
+    cursor:
+        text: "#120F0C"
+        cursor: "#D0CFCE"
+    vi_mode_cursor:
+        text: "#120F0C"
+        cursor: "#E34334"
+
+    search:
+        matches:
+            foreground: "#120F0C"
+            background: "#575553"
+        focused_match:
+            foreground: "#120F0C"
+            background: "#37ABC4"
+        footer_bar:
+            foreground: "#120F0C"
+            background: "#575553"
+
+    hints:
+        start:
+            foreground: "#120F0C"
+            background: "#AA74E6"
+        end:
+            foreground: "#120F0C"
+            background: "#575553"
+
+    selection:
+        text: "#D0CFCE"
+        background: "#272421"
+
+    normal:
+        black: "#120F0C"
+        red: "#E34334"
+        green: "#53A67F"
+        yellow: "#F2B705"
+        blue: "#0984DD"
+        magenta: "#AA74E6"
+        cyan: "#37ABC4"
+        white: "#D0CFCE"
+
+    bright:
+        black: "#575553"
+        red: "#E34334"
+        green: "#53A67F"
+        yellow: "#F2B705"
+        blue: "#0984DD"
+        magenta: "#AA74E6"
+        cyan: "#37ABC4"
+        white: "#FFFDFA"
+
+    dim:
+        black: "#120F0C"
+        red: "#E34334"
+        green: "#53A67F"
+        yellow: "#F2B705"
+        blue: "#0984DD"
+        magenta: "#AA74E6"
+        cyan: "#37ABC4"
+        white: "#D0CFCE"
+
+    indexed_colors:
+        - { index: 16, color: "#C53193" }
+        - { index: 17, color: "#F25CBF" }
