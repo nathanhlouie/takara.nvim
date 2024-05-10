@@ -8,7 +8,7 @@ endif
 let g:colors_name = 'takara'
 
 if has('nvim')
-    lua require('takara.util').apply_colorscheme()
+    lua require('takara').style('light')
     finish
 endif
 
